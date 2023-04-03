@@ -1,2 +1,1 @@
-# odin-recipes
-Recipes
+recipes pro
